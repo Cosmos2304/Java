@@ -1,18 +1,10 @@
-import java.util.Scanner;
+
 
 public class MyClass {
   public static void main(String args[]) {
+    public static int 
     
     
-    
-    Scanner sc= new Scanner(System.in);
-    System.out.println("Länge a: ");
-    float a =sc.nextFloat();
-    System.out.println("Breite:b  ");
-    float b= sc.nextFloat();
-    float A=a*b;
-   
 
-    System.out.println("FLäche = " + A);
   }
 }
